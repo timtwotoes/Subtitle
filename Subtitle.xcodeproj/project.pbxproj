@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		E9AE5ABE2530BE0900ABD86D /* Subtitle */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Subtitle; sourceTree = BUILT_PRODUCTS_DIR; };
+		E9AE5ABE2530BE0900ABD86D /* subtitle */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = subtitle; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9AE5AC12530BE0900ABD86D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,7 +49,7 @@
 		E9AE5ABF2530BE0900ABD86D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E9AE5ABE2530BE0900ABD86D /* Subtitle */,
+				E9AE5ABE2530BE0900ABD86D /* subtitle */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -65,9 +65,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E9AE5ABD2530BE0900ABD86D /* Subtitle */ = {
+		E9AE5ABD2530BE0900ABD86D /* subtitle */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E9AE5AC52530BE0900ABD86D /* Build configuration list for PBXNativeTarget "Subtitle" */;
+			buildConfigurationList = E9AE5AC52530BE0900ABD86D /* Build configuration list for PBXNativeTarget "subtitle" */;
 			buildPhases = (
 				E9AE5ABA2530BE0900ABD86D /* Sources */,
 				E9AE5ABB2530BE0900ABD86D /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = Subtitle;
+			name = subtitle;
 			productName = Subtitle;
-			productReference = E9AE5ABE2530BE0900ABD86D /* Subtitle */;
+			productReference = E9AE5ABE2530BE0900ABD86D /* subtitle */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E9AE5ABD2530BE0900ABD86D /* Subtitle */,
+				E9AE5ABD2530BE0900ABD86D /* subtitle */,
 			);
 		};
 /* End PBXProject section */
@@ -273,7 +273,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E9AE5AC52530BE0900ABD86D /* Build configuration list for PBXNativeTarget "Subtitle" */ = {
+		E9AE5AC52530BE0900ABD86D /* Build configuration list for PBXNativeTarget "subtitle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E9AE5AC62530BE0900ABD86D /* Debug */,
